@@ -18,6 +18,12 @@ Domande da  farsi quando si crea una funzione:
 4. Se sì, di che tipo?
 
 ## Ragionamento logico
+-Chiedere all'utente di scegliere tra pari o dispari e salvare in una variabile;
+-Chiedere all'utente di scegliere un numero tra 1 e 5 e salvere in una variabile;
+-Creare una funzione che generi un numero casuale tra 1 e 5 per il computer e salvarlo in una variabile;
+-Sommare i due numeri;
+-Stabilire con un'altra funzione se il numero sommato è pari o dispari; 
 
 
 ## Output
+Stampare messaggio apposito dichiarando chi ha vinto.
